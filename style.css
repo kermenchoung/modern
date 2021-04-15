@@ -6,8 +6,10 @@ body {
 }
 
 .dots{
+
   /*background-image: url(https://kermenchoung.github.io/modern/bkgr.png);*/
-   background-image: url(https://kermenchoung.github.io/modern/bkgrN.png);
+  /* background-image: url(https://kermenchoung.github.io/modern/bkgrN.png);*/
+    background-image: url(https://kermenchoung.github.io/modern/gradbkgr/index.html);
   width: 100%;
   height:100%;
   /*opacity: .1;*/
